@@ -1,0 +1,5 @@
+0 start
+1 space_words
+2 space_letter...
+3 dot
+4 dash
