@@ -38,7 +38,7 @@ pip install opencv-python cvzone numpy tensorflow
 
 ---
 ### Folder Structure
-Morse-Code-Hand-Gesture-Decoder-CV-/
+Morse-Code-Hand-Gesture-Decoder-CV-/␣␣
 │
 ├─ Model/
 │   ├─ keras_model.h5          # Trained Keras model
