@@ -37,17 +37,5 @@ pip install opencv-python cvzone numpy tensorflow
 ```
 
 ---
-### Folder Structure
-Morse-Code-Hand-Gesture-Decoder-CV-/␣␣
-│
-├─ Model/
-│   ├─ keras_model.h5          # Trained Keras model
-│   └─ labels.txt              # Gesture labels
-│
-├─ main.py                     # Main script to run the program
-├─ README.md
-└─ .gitignore                  # Ignore venv, datasets, cache, etc.
-
----
 ### License
 This project is open-source under the MIT License.
